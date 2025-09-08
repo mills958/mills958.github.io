@@ -17,6 +17,7 @@ nav {
     display: flex;
     padding: 20px;
     margin-bottom: 20px;
+    border-radius: 20px;
 }
 
 h1 {
@@ -49,6 +50,7 @@ main {
     background: rgb(1, 255, 64);
     display: flex;
     margin-top: 20px;
+    border-radius: 20px;
 }
 
 .sidebar {
@@ -67,7 +69,8 @@ main {
 
 /* interests section styles */
 #interests {
-    border: 4px rgb(2, 243, 118) ridge;
+    border: dashed 4px rgb(2, 243, 118) ;
+    border-radius: 20px;
     padding: 8px;
     margin-top: 20px;
 }
